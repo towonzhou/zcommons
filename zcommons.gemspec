@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 lib = File.expand_path('../lib', __FILE__)
-require 'zcommons/version'
+require 'lib/zcommons/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "zcommons"
